@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "username": "imksav",
+    "email": "imksav@test.com",
+    "password": "Password123",
+    "name": "Keshav Bhandari",
+    "phone": "123-456-7890",
+    "address": "123 Main St, Springfield, IL, USA",
+    "dob": "1999-08-10"
+  },
+  {
+    "id": 2,
+    "username": "sawdxaa",
+    "email": "sadikshya@test.com",
+    "password": "Password123",
+    "name": "Sadikshya Poudel",
+    "phone": "987-654-3210",
+    "address": "456 Elm St, Springfield, IL, USA",
+    "dob": "2011-08-02"
+  },
+  {
+    "id": 3,
+    "username": "sam_brown",
+    "email": "sam.brown@example.com",
+    "password": "pass789",
+    "name": "Sam Brown",
+    "phone": "555-555-5555",
+    "address": "789 Oak St, Springfield, IL, USA",
+    "dob": "1995-03-10"
+  },
+  {
+    "id": 4,
+    "username": "lucy_gray",
+    "email": "lucy.gray@example.com",
+    "password": "mypassword123",
+    "name": "Lucy Gray",
+    "phone": "444-444-4444",
+    "address": "321 Pine St, Springfield, IL, USA",
+    "dob": "1992-11-05"
+  },
+  {
+    "id": 5,
+    "username": "mark_jones",
+    "email": "mark.jones@example.com",
+    "password": "password321",
+    "name": "Mark Jones",
+    "phone": "333-333-3333",
+    "address": "654 Maple St, Springfield, IL, USA",
+    "dob": "1998-09-18"
+  }
+]
